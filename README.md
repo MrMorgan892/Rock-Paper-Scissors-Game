@@ -1,6 +1,6 @@
-﻿# MY FIRST PROJECT
-
-This is a Rock Paper Scissors game in Python.
+# ROCK PAPER SCISSORS GAME🪨✂️📄
+ 
+This is a Rock Paper Scissors game in Python. (My first project)
 
 ## HOW TO RUN:
 
@@ -9,5 +9,6 @@ This is a Rock Paper Scissors game in Python.
 1. Play!
 
 ## UPDATES
+
 
 I frequently update this project with new UI and features
